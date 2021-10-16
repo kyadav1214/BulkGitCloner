@@ -1,4 +1,4 @@
-# BulkGitCloner ![.NET Core](https://github.com/kyadav1214/BulkGitCloner/workflows/.NET%20Core/badge.svg)
+# BulkGitCloner [![.NET Core](https://github.com/kyadav1214/BulkGitCloner/actions/workflows/dotnetcore.yml/badge.svg)](https://github.com/kyadav1214/BulkGitCloner/actions/workflows/dotnetcore.yml)
 GitBulkCloner is a simple tool that can do bulk git pull operations with few keypresses.
 
 If you are a open source enthusiast or devops person managing multiple repos or manage  several repositories in one or multiple projects, sometimes it becomes tedious to manage all the repositories. Especially when the team is large, it could be difficult to get all the repos to latest state.
